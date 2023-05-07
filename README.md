@@ -1,5 +1,4 @@
-
-<img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" height="300px" width="800px">
+<img align="center" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" height="300px" width="600px">
 
 
 # I'm Valentina
